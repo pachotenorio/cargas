@@ -1,0 +1,2 @@
+# cargas
+Configurador de cargas
